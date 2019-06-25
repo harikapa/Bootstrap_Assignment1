@@ -230,7 +230,8 @@ footer {
   text-align: center;
   padding: 20px 0px;
 }
-footer li {
-  display: inline;
-  padding-left: 30px;
+
+#barchart{
+height: 400px;
+width: fit-content;
 }
